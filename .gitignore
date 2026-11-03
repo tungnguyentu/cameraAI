@@ -6,3 +6,7 @@ runs/
 .env
 __pycache__/
 .venv/
+*.mp4
+*.mkv
+*.jpg
+*.png
